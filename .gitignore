@@ -130,3 +130,9 @@ dmypy.json
 
 # Env files
 .env
+
+# Embeddings
+*.pkl
+/embeddings/processed/*
+/embeddings/text/*
+/env/*
